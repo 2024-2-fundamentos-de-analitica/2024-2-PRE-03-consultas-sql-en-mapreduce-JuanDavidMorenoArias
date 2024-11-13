@@ -174,13 +174,3 @@ if __name__ == "__main__":
 
     run()
 
-#
-# ORQUESTADOR:
-#
-def run():
-    """Orquestador"""
-
-
-if __name__ == "__main__":
-
-    run()
